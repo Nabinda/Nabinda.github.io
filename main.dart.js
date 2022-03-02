@@ -65343,7 +65343,7 @@ s.CY()},
 $S:8}
 A.Hu.prototype={
 I(a,b){var s=A.b([A.Es(new A.a_I(),t.sM),A.Es(new A.a_J(),t.On),A.Es(new A.a_K(),t.v7),A.Es(new A.a_L(),t.De),A.Es(new A.a_M(),t.YE)],t.Ds)
-return A.awW(new A.x5(A.az(["/",new A.a_N(),"/admin_panel",new A.a_O()],t.N,t.Ab),"/","Nabin Dangol -Check",!1,null),s)}}
+return A.awW(new A.x5(A.az(["/",new A.a_N(),"/admin_panel",new A.a_O()],t.N,t.Ab),"/","Nabin Dangol",!1,null),s)}}
 A.a_I.prototype={
 $1(a){return new A.mT(A.b([new A.ib("HOME",0),new A.ib("ABOUT",1),new A.ib("SKILLS",2),new A.ib("WORKS",3),new A.ib("CONTACT",4)],t.Ql),A.a8(0,null,!1,t.Z))},
 $S:388}
